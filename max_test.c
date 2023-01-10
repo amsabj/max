@@ -1,8 +1,8 @@
-//#include "CUnit.h"
-//#include "Basic.h"
-#include "CUnit-2.1-3/CUnit/Headers/CUnit.h"
-#include "CUnit-2.1-3/CUnit/Headers/Basic.h"
-//#include "CUnit/Automated.h"
+#include "CUnit.h"
+#include "Basic.h"
+//#include "CUnit-2.1-3/CUnit/Headers/CUnit.h"
+//#include "CUnit-2.1-3/CUnit/Headers/Basic.h"
+#include "CUnit/Automated.h"
 //#include "CUnit/Console.h"
 
 #include "max.h"
